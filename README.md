@@ -14,8 +14,6 @@ A lightweight, in-memory **Course and Student Management System** built in Java.
 - [Domain Model](#domain-model)
 - [Design Patterns Used](#design-patterns-used)
 - [Roadmap](#roadmap)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
@@ -78,7 +76,7 @@ CCRM follows a simple **layered, domain-driven architecture**:
 ### 1. Clone the repository
 
 ```sh
-git clone https://github.com/<your-username>/vityarthi-java-project.git
+git clone https://github.com/<tanishqraghuwanshi678-afk>/vityarthi-java-project.git
 cd vityarthi-java-project
 ```
 
